@@ -1,0 +1,13 @@
+{
+  "name": "multivision-ai-dashboard",
+  "version": "2.0.0",
+  "description": "MultiVision AI — Smart City & Industrial Security Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["smart-city", "computer-vision", "yolov8", "dashboard"],
+  "author": "MultiVision AI Labs",
+  "license": "MIT"
+}
